@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ![Quillinan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quillinan&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quillinan&layout=donut)]
+
 
