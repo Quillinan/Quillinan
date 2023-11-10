@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Milton Quillinan 👋
 
 <!--
 **Quillinan/Quillinan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[Quillinan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={username})
+
