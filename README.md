@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Quillinan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={username})
+![Quillinan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quillinan&show_icons=true&theme=dark)
+
 
