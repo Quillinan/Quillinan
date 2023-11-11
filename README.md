@@ -65,8 +65,10 @@ Teste
   <img align="center" atl ="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
 </div><br/>
 
-Ferramentas
+Cloud
 <div style="display: inline_block">
+  <img align="center" atl ="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img align="center" atl ="render" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
   <img align="center" atl ="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 </div>
 
