@@ -62,7 +62,6 @@ Framework
 
 Teste
 <div style="display: inline_block">
-  <img align="center" atl ="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img align="center" atl ="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
 </div><br/>
 
