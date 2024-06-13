@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 ## Sobre mim :
 
 - 🚀 Dev Full Stack
-- 🔭 Atualmente trabalhando na Sendas
-- 💬 Foco em Desenvolvimento de Softwares e Análise de Dados
+- 💬 Foco em Desenvolvimento de Softwares
 
 ## Estatísticas :
 
